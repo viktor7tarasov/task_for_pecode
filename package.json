@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Task for Pecode from Viktor Tarasov",
+  "main": "wdio.conf.js",
+  "dependencies": {
+    "chromedriver": "^92.0.1",
+    "wdio-chromedriver-service": "^7.2.0",
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor7tarasov/task_for_pecode.git"
+  },
+  "author": "Viktor Tarasov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktor7tarasov/task_for_pecode/issues"
+  },
+  "homepage": "https://github.com/viktor7tarasov/task_for_pecode#readme"
+}
